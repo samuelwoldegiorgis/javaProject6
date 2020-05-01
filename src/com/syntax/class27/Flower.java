@@ -1,8 +1,8 @@
-package com.syntax.class227;
+package com.syntax.class27;
 
 //define flower class that will have String type, 
 
-//constructor that initializes a variables and undefined method bloom
+//constructor that initializes a variables and undefine method bloom
 
 public abstract class Flower {
 

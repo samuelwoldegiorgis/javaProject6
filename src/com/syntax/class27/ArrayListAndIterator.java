@@ -1,4 +1,4 @@
-package com.syntax.class227;
+package com.syntax.class27;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -33,8 +33,7 @@ public class ArrayListAndIterator {
 			if(element.equals("ice cream")) {
 				it.remove();
 			}
-
-	}
+		}
 
 		System.out.println(" Arraylist after removing element ");
 		System.out.println(sweets);
@@ -50,5 +49,5 @@ public class ArrayListAndIterator {
 			System.out.println(str);
 		}
 	}
-}
 
+}
